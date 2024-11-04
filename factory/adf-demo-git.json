@@ -1,0 +1,9 @@
+{
+	"name": "adf-demo-git",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "503b7097-c1d2-47fd-ac90-35b87ebc4aae",
+		"tenantId": "d96dff95-4364-42ad-870e-7bd2aec938b5"
+	}
+}
